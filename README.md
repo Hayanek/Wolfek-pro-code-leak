@@ -5,7 +5,7 @@ tak nie jestem zbyt dobrym programistą więc może zawierać w chuj błedów al
 Po co udostepniłem kod?
 Być może komuś sie przyda, jak by szukał jakiegoś rozwiązania :D
 
-Modules:
+*Modules:*
 Suggestion, Verify, Logs, Welcome and Leave Channel
-Commands tags:
+*Commands tags:*
 Hypixel Stats, PKN, 8ball, dog, cat, youtube, Moderation, avvatar, banner, help
